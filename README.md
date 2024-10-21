@@ -1,4 +1,4 @@
-# MeXE402_Midterm_EmmanuelEchaluceKimberlyFabunan
+# MeXE402_Midterm_EmanuelEchaluceKimberlyFabunan
 
 ## Introduction
 
