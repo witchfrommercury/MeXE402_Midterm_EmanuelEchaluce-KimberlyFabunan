@@ -14,11 +14,11 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## Dataset Overview
 
-*Linear*
+*Logistic 1*
 
 The "Customer Satisfaction Survey at Kashmir cafe" dataset is a valuable collection of responses obtained from a customer satisfaction survey conducted at Cafe, a restaurant or food delivery service. The dataset serves as a comprehensive source of feedback, insights, and opinions gathered from customers regarding their experience with Garden's services.
 
-*Logistic*
+*Logistic 2*
 
 The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
