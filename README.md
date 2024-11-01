@@ -47,5 +47,5 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 - Yes or no were set to binary 1 and 0.
 - The features (independent variables) are Pclass or the ticket class, sex, age in years, SibSp or the number of siblings and spouses aboard the Titanic, ticket number, fare of the passengers, cabin number, and the port of Embarkation.
 
-
+![Screenshot 2024-11-01 180524](https://github.com/user-attachments/assets/c131a53c-c07e-4f68-bf08-1cc19d55c964)
 
