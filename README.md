@@ -27,3 +27,10 @@ The test set should be used to see how well your model performs on unseen data. 
 We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
 ## Project Objectives
+
+## Result and Discussion
+
+Logistic 1: Customer Survey Satisfaction at Ali's
+
+![image](https://github.com/user-attachments/assets/fd09a696-2d9c-4640-82ce-fe6864d049f1)
+
