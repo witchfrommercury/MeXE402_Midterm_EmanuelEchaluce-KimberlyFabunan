@@ -33,7 +33,7 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 ## Result and Discussion
 
-Logistic 1: Customer Survey Satisfaction at Ali's
+*Logistic 1: Customer Survey Satisfaction at Ali's
 
 - Our independent variable is Was your order accurate? Please respond 1 or 0.
 - Here we made the yes or no as binary to 1 or 0.
