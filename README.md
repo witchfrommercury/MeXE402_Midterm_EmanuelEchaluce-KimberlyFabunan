@@ -35,9 +35,17 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 *Logistic 1: Customer Survey Satisfaction at Ali's
 
-- Our independent variable is Was your order accurate? Please respond 1 or 0.
+- Our dependent variable is Was your order accurate? Please respond 1 or 0.
 - Here we made the yes or no as binary to 1 or 0.
-- The dependent variables are How satisfied were you with your overall delivery experience at Ali, How satisfied were you with the quality of the food at Alis, and How satisfied were you with the speed of delivery at Alis
+- The independent variables are How satisfied were you with your overall delivery experience at Ali, How satisfied were you with the quality of the food at Alis, and How satisfied were you with the speed of delivery at Alis
 
 ![image](https://github.com/user-attachments/assets/e62d8c4c-0578-4e0f-850a-5023792e4a04)
+
+*Logistic 2: Survivability of the Passengers of the Titanic Shipwreck
+
+- The dependent variable here was the survival of the passengers of the Titanic shipwreck.
+- Yes or no were set to binary 1 and 0.
+- The features (independent variables) are Pclass or the ticket class, sex, age in years, SibSp or the number of siblings and spouses aboard the Titanic, ticket number, fare of the passengers, cabin number, and the port of Embarkation.
+
+
 
