@@ -4,13 +4,8 @@
 
 *Logistic Regression*
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+A statistical model called logistic regression is used to predict a binary outcome based on one or more feature variables in classification issues. The model uses maximum likelihood estimation to learn weights from the training data and then estimates a sigmoid-shaped function that maps the feature values to a probability of belonging to each class. In machine learning and data science, logistic regression is a widely used technique for a number of purposes, such as credit risk assessment, fraud detection, spam filtering, and medical diagnosis.
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
-
-In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ## Dataset Overview
 
@@ -28,9 +23,21 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 ## Project Objectives
 
+- Understand the logistic function's features and underlying principles: The logistic function is a mathematical function that serves as the foundation for logistic regression. To also appropriately interpret the outcomes of logistic regression, one must comprehend the characteristics of the logistic function, such as its curvature and form.
+
+- Understanding the logistic regression model's mathematical formulation: The logistic regression model is a statistical model that explains how a set of features and a binary target variable are related.
+
+- Understand how to read logistic regression coefficients: The coefficients that logistic regression estimates show how each feature affects the target variable's likelihood. Knowing how to analyze these coefficients can assist in determining which characteristics are less significant and which have the strongest correlation with the target variable.
+
+- Learn how features/predictors relate to target classes: Given a collection of features or predictors, a model that estimates the likelihood of each target class is constructed using logistic regression. To use logistic regression efficiently, one must have a solid understanding of the link between these features and target classes.
+
 ## Result and Discussion
 
 Logistic 1: Customer Survey Satisfaction at Ali's
 
-![image](https://github.com/user-attachments/assets/fd09a696-2d9c-4640-82ce-fe6864d049f1)
+- Our independent variable is Was your order accurate? Please respond 1 or 0.
+- Here we made the yes or no as binary to 1 or 0.
+- The dependent variables are How satisfied were you with your overall delivery experience at Ali, How satisfied were you with the quality of the food at Alis, and How satisfied were you with the speed of delivery at Alis
+
+![image](https://github.com/user-attachments/assets/e62d8c4c-0578-4e0f-850a-5023792e4a04)
 
