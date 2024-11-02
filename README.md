@@ -51,6 +51,6 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 ## References
 
-https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
-https://www.kaggle.com/c/titanic
+- https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
+- https://www.kaggle.com/c/titanic
 
